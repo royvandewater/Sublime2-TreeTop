@@ -74,7 +74,7 @@
      "match": "(%|&amp;|\\*\\*|\\*|\\+|\\-|/)"
   },
 
-  { "match": "\\b(BEGIN|begin|case|class|else|elsif|END|end|ensure|for|grammar|if|in|module|rescue|rule|then|unless|until|when|while)\\b",
+  { "match": "\\b(BEGIN|begin|case|class|else|elsif|END|end|ensure|for|grammar|if|in|include|module|rescue|rule|then|unless|until|when|while)\\b",
     "name": "keyword.control.treetop",
     "comment": "TreeTop control keyword"
   },
