@@ -203,12 +203,6 @@
 				</dict>
 			</array>
 		</dict>
-		<dict>
-			<key>match</key>
-			<string>\(?:[0-7]{1,3}|x[\da-fA-F]{1,2}|.\)</string>
-			<key>name</key>
-			<string>constant.character.escape.treetop</string>
-		</dict>
 	</array>
 	<key>scopeName</key>
 	<string>source.treetop</string>

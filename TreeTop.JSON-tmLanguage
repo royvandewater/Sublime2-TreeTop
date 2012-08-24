@@ -95,10 +95,6 @@
        "match": "."
     }
     ]
-  },
-
-  {  "name": "constant.character.escape.treetop",
-     "match": "\\(?:[0-7]{1,3}|x[\\da-fA-F]{1,2}|.\\)"
   }
   ],
   "uuid": "0772a8a8-108d-4543-94d0-abe7b3912aa2"
