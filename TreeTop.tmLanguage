@@ -165,6 +165,14 @@
 			<string>keyword.control.treetop</string>
 		</dict>
 		<dict>
+			<key>comment</key>
+			<string>TreeTop comment</string>
+			<key>match</key>
+			<string>^ *#.*$</string>
+			<key>name</key>
+			<string>comment.treetop</string>
+		</dict>
+		<dict>
 			<key>begin</key>
 			<string>^ +\[</string>
 			<key>beginCaptures</key>
